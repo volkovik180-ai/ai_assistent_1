@@ -3,6 +3,9 @@
 Ссылка на Телеграмм-бот ассистента: t.me/zni_asutoir_bot
 
 
+![Иллюстрация к проекту](https://github.com/volkovik180-ai/ai_assistent_1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-01-21%20162534.png?raw=true)
+
+
 ![Иллюстрация к проекту](https://github.com/volkovik180-ai/ai_assistent_1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-01-20%20185853.png?raw=true)
 
 
